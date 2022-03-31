@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Technical Manager at Cosoy Investment | Aspiring Data Scientist looking to provide insight for Web3.0 and Cryptocurrency Markets
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Aspiring Data Scientist currently studying at BrainStation.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[niklas.s.gutheil@gmail.com](mailto:niklas.s.gutheil@gmail.com)
